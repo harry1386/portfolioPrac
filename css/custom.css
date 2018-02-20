@@ -1,0 +1,33 @@
+.letters {
+    font-family: 'Homemade Apple', cursive;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 10px solid #6c757d;
+    font-size: 125px;
+    background-color: #B22222;
+}
+
+.letterp {
+    margin-top: 12%;
+    color: #B8860B;
+}
+
+.letterps {
+    margin-top: 12%;
+    color: #B8860B;
+    font-size: 115px;
+    margin-left: 60px;
+}
+
+.mb-5 {
+    margin-top: 3%;
+}
+
+#githubBtn {
+    margin-bottom: 3%;
+}
+
